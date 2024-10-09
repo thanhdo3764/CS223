@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"formatter" : "JSONFormatter",
+"scores" : {"Correctness" : 20, "Huffman Encoder" : 20}
+}
